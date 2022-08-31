@@ -1,3 +1,0 @@
-## Interface: 20501
-## Title: SimpleMouseTooltip
-SimpleMouseToolTip.lua
